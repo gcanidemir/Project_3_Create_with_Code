@@ -2,7 +2,7 @@
 Simple Unity Game
 
 
-Controls
+Controls:
 
 
 Spacebar to jump
