@@ -1,11 +1,6 @@
 # Unity Learn - Project_3 - Create with Code
 Simple Unity Game
 
+[To Access the Demo](https://youtu.be/DlnMhqFP2Hw?feature=shared)
 
-Controls:
-
-
-Spacebar to jump
-
-
-[To Access the game](https://gcanidemir.github.io/Project_3_Create_with_Code)
+[To Play the Game](https://gcanidemir.itch.io/project-3-create-with-code
